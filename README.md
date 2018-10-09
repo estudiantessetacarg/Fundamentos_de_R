@@ -17,7 +17,7 @@ R es un software libre que presenta un notable y creciente desarrollo por la com
 
 ### Contacto
 
-[link](estudiantessetac.arg@gmail.com )
+<li><a href="mailto:estudiantessetac.arg@gmail.com ">Email Us</a></li>
 
 ### Material
 
