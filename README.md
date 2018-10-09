@@ -1,6 +1,6 @@
 ## Fundamentos de R para Científicos/as
 
-Congreso SETAC
+Congreso SETAC [Image](src)
 Universidad de San Luis - 16 de octubre de 2018
 
 ### Presentación 
@@ -11,30 +11,10 @@ Se abordarán los siguientes temas: (1) ¿Cuál es la diferencia entre RStudio y
 
 R es un software libre que presenta un notable y creciente desarrollo por la comunidad. Se presentarán algunos grupos de usuarias/os representativas.
 
-```markdown
-Syntax highlighted code block
+### Contacto
 
-# Header 1
-## Header 2
-### Header 3
+[Mail estudiantes SETAC](estudiantessetac.arg@gmail.com )
 
-- Bulleted
-- List
+### Material
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flor14/Fundamentos-de-R/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Proximamente disponible
