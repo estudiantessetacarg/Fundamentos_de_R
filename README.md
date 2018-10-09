@@ -8,7 +8,7 @@ Universidad de San Luis
 
 16 de octubre 
 
-<a href="https://setacsl2018.com/">Web Congreso SETAC San Luis 2018</a>
+<a href="https://setacsl2018.com/">SETAC San Luis 2018</a>
 
 ### Presentación 
 
