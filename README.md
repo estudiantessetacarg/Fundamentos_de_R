@@ -1,8 +1,10 @@
 ## Fundamentos de R para Científicos/as
 
-Congreso SETAC 2018
-<img src="logo_chico.png" width="48">
-Universidad de San Luis - 16 de octubre 
+<img src="logo_chico.png" width="60">
+
+Congreso SETAC 2018 
+Universidad de San Luis
+16 de octubre 
 
 ### Presentación 
 
