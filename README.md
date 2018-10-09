@@ -2,10 +2,10 @@
 
 <img src="logo_chico.png" width="80">
 
-**Actividad estudiantes SETAC**
-
 Congreso SETAC 2018 -
+
 Universidad de San Luis -
+
 16 de octubre 
 
 ### Presentación 
