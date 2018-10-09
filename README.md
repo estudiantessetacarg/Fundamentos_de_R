@@ -5,6 +5,7 @@
 Congreso SETAC 2018 - 
 Universidad de San Luis - 
 16 de octubre 
+<a href="https://setacsl2018.com/">Web Congreso SETAC San Luis 2018</a>
 
 ### Presentación 
 
@@ -14,11 +15,9 @@ Se abordarán los siguientes temas: (1) ¿Cuál es la diferencia entre RStudio y
 
 R es un software libre que presenta un notable y creciente desarrollo por la comunidad. Se presentarán algunos grupos de usuarias/os representativas.
 
-### Contacto
+### Contacto 
 
 <a href="mailto:estudiantessetac.arg@gmail.com ">Mail estudiantes SETAC</a>
-
-<a href="https://setacsl2018.com/">Web Congreso</a>
 
 ### Material
 
