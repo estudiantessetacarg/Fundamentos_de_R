@@ -1,6 +1,7 @@
 ## Fundamentos de R para Científicos/as
 
 <img src="logo_chico.png" width="60">
+*Actividad estudiantes SETAC*
 
 Congreso SETAC 2018 -
 Universidad de San Luis -
