@@ -2,9 +2,12 @@
 
 <img src="logo_chico.png" width="80">
 
-Congreso SETAC 2018 - 
-Universidad de San Luis - 
+Congreso SETAC 2018 
+
+Universidad de San Luis 
+
 16 de octubre 
+
 <a href="https://setacsl2018.com/">Web Congreso SETAC San Luis 2018</a>
 
 ### Presentación 
