@@ -1,6 +1,6 @@
 ## Fundamentos de R para Científicos/as
 
-<img src="logo_chico.png" width="60">
+<img src="logo_chico.png" width="80">
 
 **Actividad estudiantes SETAC**
 
