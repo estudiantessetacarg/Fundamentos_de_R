@@ -1,6 +1,7 @@
 ## Fundamentos de R para Científicos/as
 
-Congreso SETAC [Image](6.png)
+Congreso SETAC 
+[Image](6.png?raw=true)
 Universidad de San Luis - 16 de octubre de 2018
 
 ### Presentación 
@@ -18,3 +19,4 @@ R es un software libre que presenta un notable y creciente desarrollo por la com
 ### Material
 
 Proximamente disponible
+
