@@ -1,7 +1,7 @@
 ## Fundamentos de R para Científicos/as
 
 <img src="logo_chico.png" width="60">
-**Actividad estudiantes SETAC**
+_Actividad estudiantes SETAC_
 
 Congreso SETAC 2018 -
 Universidad de San Luis -
@@ -17,7 +17,7 @@ R es un software libre que presenta un notable y creciente desarrollo por la com
 
 ### Contacto
 
-<li><a href="mailto:estudiantessetac.arg@gmail.com ">Email Us</a></li>
+<li><a href="mailto:estudiantessetac.arg@gmail.com ">Mail estudiantes SETAC</a></li>
 
 ### Material
 
